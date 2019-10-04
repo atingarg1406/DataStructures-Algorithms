@@ -1,4 +1,4 @@
-//The Coin Change Problem
+//The Coin Change Problem using C++
 //Given an Array of coins C, and money S, print number of ways to make a change for S
 //Eg: A=[1,2] S=4 answer is {1,1,1,1}, {2,2}, {2,1,1} i.e 3 ways
 #include <bits/stdc++.h>
